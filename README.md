@@ -1,2 +1,2 @@
 # GentooConfig
-@Dink4n's Gentoo configs
+Dink4n's Gentoo configs
